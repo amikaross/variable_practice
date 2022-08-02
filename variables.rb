@@ -4,3 +4,6 @@ species = "Dog"
 owner_age = 32
 dog_age = 3
 years_owned = 2
+daily_poops = 2.5
+daily_water = 3.5
+weekly_barks = 56.9
